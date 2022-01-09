@@ -1,0 +1,45 @@
+{
+    "name": "unity-extension-pack",
+    "displayName": "Unity Extension Pack",
+    "description": "A bundle of extensions useful for Unity development with VS Code.",
+    "version": "0.0.1",
+    "publisher": "wlewis",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/wlewis55/Unity-VS-Code-Extension-Pack.git"
+    },
+    "icon": "icon.png",
+    "categories": ["Extension Packs"],
+    "extensionPack": [ 
+        "ms-dotnettools.csharp",
+        "k--kato.docomment",
+        "adrianwilczynski.namespace",
+        "fernandoescolar.vscode-solution-explorer",
+        "lionize.unity-snippets-modified",
+        "Unity.unity-debug",
+        "Tobiah.unity-tools",
+        "redhat.vscode-xml",
+        "ecmel.vscode-html-css",
+        "slevesque.shader",
+        "amlovey.shaderlabvscodefree",
+        "eppz.eppz-code",
+        "VictorTrusov.one-monokai-80s-plus",
+        "jaredbest.greystillplays-vscode",
+        "PKief.material-icon-theme",
+        "vscode-icons-team.vscode-icons",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "aaron-bond.better-comments",
+        "wayou.vscode-todo-highlight",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "Gruntfuggly.todo-tree",
+        "RedVanWorkshop.explorer-exclude-vscode-extension",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "Tyriar.sort-lines",
+        "ryu1kn.partial-diff",
+        "alefragnani.Bookmarks"
+    ]
+}
