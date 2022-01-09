@@ -18,4 +18,6 @@ Initial creation of the following files:
 
 <br><br>
 
+[0.0.1]: https://github.com/wlewis55/Unity-VS-Code-Extension-Pack/releases/tag/v0.0.1
+
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
