@@ -2,7 +2,7 @@
     "name": "unity-extension-pack",
     "displayName": "Unity Extension Pack",
     "description": "A bundle of extensions useful for Unity development with VS Code.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "wlewis",
     "engines": {
         "vscode": "^1.52.0"
